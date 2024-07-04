@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://invoice-generator-h08m.onrender.com/api",
+  baseURL: "https://he-p131.onrender.com/api",
 });
 
 export const register = (data: {
